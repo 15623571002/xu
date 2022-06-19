@@ -1,0 +1,7 @@
+diff --git a/file2.txt b/file2.txt
+index 9404221..2d39b5e 100644
+--- a/file2.txt
++++ b/file2.txt
+@@ -1 +1,2 @@
+ 这是file2的内容
++修改
